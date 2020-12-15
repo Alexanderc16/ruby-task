@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a276bde-b713-4afc-b1be-12be96b8c981" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/pages/about.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/pages/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +152,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608030443055</updated>
-      <workItem from="1608030445212" duration="1502000" />
+      <workItem from="1608030445212" duration="2156000" />
+      <workItem from="1608036789639" duration="130000" />
+      <workItem from="1608037109017" duration="758000" />
     </task>
     <servers />
   </component>
@@ -168,8 +171,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/first_rubymine_project@Development__first_rubymine_project.rcov" NAME="Development: first-rubymine-project Coverage Results" MODIFIED="1608031589027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="first-rubymine-project" />
+    <SUITE FILE_PATH="coverage/first_rubymine_project@Development__first_rubymine_project.rcov" NAME="Development: first-rubymine-project Coverage Results" MODIFIED="1608052733037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="first-rubymine-project" />
   </component>
 </project>
