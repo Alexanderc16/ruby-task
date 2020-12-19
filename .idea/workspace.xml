@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a276bde-b713-4afc-b1be-12be96b8c981" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/first-rubymine-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/first-rubymine-project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +153,7 @@
       <workItem from="1608030445212" duration="2156000" />
       <workItem from="1608036789639" duration="130000" />
       <workItem from="1608037109017" duration="5642000" />
-      <workItem from="1608141082826" duration="7285000" />
+      <workItem from="1608141082826" duration="7744000" />
     </task>
     <servers />
   </component>
